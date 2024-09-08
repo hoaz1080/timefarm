@@ -2,11 +2,11 @@
   "accounts": [
     {
       "acc_info": "token",
-      "proxy_info": "http://user:pass@ip:port"
+      "proxy_info": "http://67.43.227.227:11523"
     },
     {
       "acc_info": "token",
-      "proxy_info": "http://user:pass@ip:port"
+      "proxy_info": "http://195.66.93.188:3128"
     }
   ]
 }
